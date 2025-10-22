@@ -34,8 +34,12 @@ Scanner Class for user input
 🧩 Code Structure
 
 StudentManagement/
+
 │
+
 ├── StudentManagement.java   # Main program file
+
 └── README.md                # Project documentation
+
 └── output                   # Output screenshot
 
