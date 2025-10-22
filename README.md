@@ -1,4 +1,4 @@
-"🎓 Student Management System 
+🎓 Student Management System 
 
 📘 Overview
 
@@ -32,22 +32,10 @@ Loops and Conditional Statements
 Scanner Class for user input
 
 🧩 Code Structure
+
 StudentManagement/
 │
 ├── StudentManagement.java   # Main program file
 └── README.md                # Project documentation
 └── output                   # Output screenshot
 
-Class: Student
-
-Represents a single student with:
-
-id – Unique identifier
-
-name – Student’s name
-
-marks – Student’s marks
-
-Class: StudentManagement
-
-Contains the main() method and implements the menu-driven interface for managing students.
